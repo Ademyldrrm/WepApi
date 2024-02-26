@@ -1,0 +1,17 @@
+C:\Users\AdemYildirim\source\repos\WepApi\DataAccsess\bin\Debug\net8.0\DataAccsess.deps.json
+C:\Users\AdemYildirim\source\repos\WepApi\DataAccsess\bin\Debug\net8.0\DataAccsess.dll
+C:\Users\AdemYildirim\source\repos\WepApi\DataAccsess\bin\Debug\net8.0\DataAccsess.pdb
+C:\Users\AdemYildirim\source\repos\WepApi\DataAccsess\bin\Debug\net8.0\Core.dll
+C:\Users\AdemYildirim\source\repos\WepApi\DataAccsess\bin\Debug\net8.0\Entities.dll
+C:\Users\AdemYildirim\source\repos\WepApi\DataAccsess\bin\Debug\net8.0\Entities.pdb
+C:\Users\AdemYildirim\source\repos\WepApi\DataAccsess\bin\Debug\net8.0\Core.pdb
+C:\Users\AdemYildirim\source\repos\WepApi\DataAccsess\obj\Debug\net8.0\DataAccsess.csproj.AssemblyReference.cache
+C:\Users\AdemYildirim\source\repos\WepApi\DataAccsess\obj\Debug\net8.0\DataAccsess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdemYildirim\source\repos\WepApi\DataAccsess\obj\Debug\net8.0\DataAccsess.AssemblyInfoInputs.cache
+C:\Users\AdemYildirim\source\repos\WepApi\DataAccsess\obj\Debug\net8.0\DataAccsess.AssemblyInfo.cs
+C:\Users\AdemYildirim\source\repos\WepApi\DataAccsess\obj\Debug\net8.0\DataAccsess.csproj.CoreCompileInputs.cache
+C:\Users\AdemYildirim\source\repos\WepApi\DataAccsess\obj\Debug\net8.0\DataAccs.262F4712.Up2Date
+C:\Users\AdemYildirim\source\repos\WepApi\DataAccsess\obj\Debug\net8.0\DataAccsess.dll
+C:\Users\AdemYildirim\source\repos\WepApi\DataAccsess\obj\Debug\net8.0\refint\DataAccsess.dll
+C:\Users\AdemYildirim\source\repos\WepApi\DataAccsess\obj\Debug\net8.0\DataAccsess.pdb
+C:\Users\AdemYildirim\source\repos\WepApi\DataAccsess\obj\Debug\net8.0\ref\DataAccsess.dll
